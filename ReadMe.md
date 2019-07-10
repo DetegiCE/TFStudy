@@ -4,4 +4,4 @@ You can study better by googling.
 
 
 
-This codes are from **TensorFlow Basic Programming 2nd Ed.** by **Byeonggwan Choi et al.**
+This codes are from **TensorFlow Basic Programming 2nd Ed. (Chunggu Publish)** by **Byeonggwan Choi et al.**
