@@ -52,3 +52,13 @@ a type is <class 'numpy.ndarray'>
 tensorflow로 하나 numpy로 하나 결과는 같다라는것을 보여주는 코드
 
 *결과 값은 tensors2.py와 동일*
+
+# tensors6.py
+
+4x3행렬이랑 1x3행렬을 더한다는게 말이 안되는데 이게 **broadcasting** 기법이란다
+
+차원을 늘리는건 되는데 줄이는건 안됨
+
+tensors7.py를 보니까 4x3이랑 1x4로 해놨던데
+
+얘들은 당연히 차원이 안맞는 예시를 보여주고 에러가 난다고 한다.
