@@ -53,7 +53,7 @@ tensorflow로 하나 numpy로 하나 결과는 같다라는것을 보여주는 �
 
 *결과 값은 tensors2.py와 동일*
 
-# tensors6.py
+## tensors6.py
 
 4x3행렬이랑 1x3행렬을 더한다는게 말이 안되는데 이게 **broadcasting** 기법이란다
 
@@ -63,7 +63,7 @@ tensors7.py를 보니까 4x3이랑 1x4로 해놨던데
 
 얘들은 당연히 차원이 안맞는 예시를 보여주고 에러가 난다고 한다.
 
-# tensors8.py
+## tensors8.py
 
 얘도 늘려주는거란다.
 
