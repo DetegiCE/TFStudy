@@ -70,3 +70,24 @@ tensors7.py를 보니까 4x3이랑 1x4로 해놨던데
 앞에거 뒤에거 둘다
 
 이런걸 **broadcasting**이라고 한다.
+
+## tensors9.py
+
+
+~~~python
+first 
+ [0 1 2 3 4 5]
+second 
+ [[0 1 2]
+ [3 4 5]]
+thrid 
+ [[0 1]
+ [2 3]
+ [4 5]]
+~~~
+
+이제보니까 위에 third 오타났네
+
+arange 함수는 0~n-1까지 리스트(정확히는 numpy.ndarray)에 넣어주는 함수 같다
+
+reshape는 [n,m]이라 하면 nxm짜리로 위에거를 바꿔주는것 같다.
