@@ -46,3 +46,9 @@ numpy.ndarray 형으로 변환되었다.
 input data type is  <class 'list'>
 a type is <class 'numpy.ndarray'>
 ~~~
+
+## tensors5.py
+
+tensorflow로 하나 numpy로 하나 결과는 같다라는것을 보여주는 코드
+
+*결과 값은 tensors2.py와 동일*
