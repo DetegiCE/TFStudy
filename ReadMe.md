@@ -15,3 +15,8 @@ This codes are from **TensorFlow Basic Programming 2nd Ed. (Chunggu Publish)** b
 신책 사던가 해야지
 
 2019.07.12 21:21
+
+
+다음 단원부터 해야지
+
+2019.07.13 21:14
