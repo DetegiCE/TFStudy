@@ -92,3 +92,22 @@ for문의 range를 15000까지 늘려보니 ``cost is  2.3367393 , a is  3.22984
 
 ``cost is  0.018899113 , a is  3.0206785 , b is  3.72495``
 좋다
+
+
+## linreg1.py (추가내용2)
+
+이번엔 linear_random.txt 파일로 해보았다.
+
+learning_rate 0.001에 학습횟수 5000 : ``cost is  9.329727 , a is  3.1305733 , b is  1.2699698``
+
+진짜 이런걸 보니 정확한 답을 얻기 위해서는 여러번 시도해봐야 한다
+
+아래부터는 여러번 시도해본 결과를 ``(learning_rate, learning_count) : result``로 표시해보았다.
+
+```
+(0.001, 5000) : cost is  9.329727 , a is  3.1305733 , b is  1.2699698
+(0.002, 5000) : cost is  9.274495 , a is  3.1053298 , b is  1.7887061
+(0.003, 5000) : cost is  nan , a is  nan , b is  nan
+
+(0.002, 50000) : cost is  9.169217 , a is  3.0000033 , b is  3.9530783
+```
