@@ -111,3 +111,10 @@ learning_rate 0.001에 학습횟수 5000 : ``cost is  9.329727 , a is  3.1305733
 
 (0.002, 50000) : cost is  9.169217 , a is  3.0000033 , b is  3.9530783
 ```
+
+위에 거를 또 그래프로 표시해본다
+
+![linreg3](https://user-images.githubusercontent.com/26007107/61270485-c9b16280-a7dc-11e9-93b0-f901c1ed81b7.png)
+
+
+왜 빨간 점들이 약해보이는지는 모르겠는데 잘 나온 듯 
