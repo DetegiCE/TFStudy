@@ -9,3 +9,5 @@ Logistic Regression 이라는걸 배운다.
 일단 자료들을 가져오란다.
 
 [링크](http://yann.lecun.com/exdb/mnist)
+
+코드를 진행하면서 보니까 굳이 내가 받아올 필요가 없었다.
