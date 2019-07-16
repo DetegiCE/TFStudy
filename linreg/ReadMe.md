@@ -20,3 +20,10 @@
 4900 session is performed. cost is  0.020771228 , a is  3.0216722 , b is  3.7116482
 ```
 
+## linreg2.py
+
+위에 그린거를 그래프로 표시해준다.
+
+선형 그래프 부분은 점을 잔뜩 찍어주고, sample부분들은 *로 찍어준다.
+
+![linreg2](https://user-images.githubusercontent.com/26007107/61268139-8dc6cf00-a7d5-11e9-8042-6e4e0cde329f.png)
